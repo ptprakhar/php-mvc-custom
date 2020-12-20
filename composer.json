@@ -1,0 +1,15 @@
+{
+    "name": "prakhar/php-mvc-custom",
+    "authors": [
+        {
+            "name": "Prakhar Tiwari",
+            "email": "ptprakhar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
